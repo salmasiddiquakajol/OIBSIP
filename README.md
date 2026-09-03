@@ -175,6 +175,72 @@ Graphics Design Intern
 
 # 📌 Internship Task
 
-**Task 1 – Posters & Fliers**
+**Task 2 – LOGO**
 
 Completed as part of the **Oasis Infobyte Internship Program**.
+# VERRE — Minimalist Skincare Brand Logo
+
+## Project Overview
+VERRE is a fictional premium skincare brand created with a minimalist and elegant visual identity. The logo combines a refined serif wordmark with a distinctive circular "V" symbol to communicate beauty, sophistication, and modern luxury.
+
+## Objective
+To design an original, professional, and minimalist logo that clearly represents the identity of a premium skincare brand while remaining versatile across different applications.
+
+## Brand Concept
+VERRE focuses on clean beauty, elegance, and self-confidence. The visual identity uses refined typography and a simple geometric symbol to create a timeless and recognizable brand presence.
+
+## Logo Concept
+The logo features a stylized "V" enclosed within a circular form, representing beauty, balance, and completeness.
+
+The wordmark "VERRE" uses an elegant serif style to create a premium and sophisticated appearance. The mirrored "R" treatment adds a unique visual characteristic to the identity.
+
+### Tagline
+**"See What Your Skin Is Made Of."**
+
+## Color Palette
+- Burgundy — Primary Brand Color
+- Cream — Background / Supporting Color
+- Black — Monochrome Version
+- White — Reversed Version
+
+## Logo Variations
+The logo has been developed in three essential variations:
+
+1. **Full Colour** — Primary brand version
+2. **Black Monochrome** — Single-color black version
+3. **Reversed** — White logo on a dark background
+
+## Design Principles
+- Minimalist and clean
+- Elegant and premium
+- Strong visual balance
+- Simple and memorable
+- Scalable and versatile
+- KISS Principle — Keep It Simple
+
+## Typography
+An elegant Sangi serif typeface was selected to communicate sophistication and luxury while maintaining readability and visual balance.
+
+## Tools Used
+- Adobe Illustrator
+- Vector-based design workflow
+
+## Deliverables
+- Full Colour Logo
+- Black Monochrome Logo
+- Reversed Logo
+- Editable Adobe Illustrator source file
+- SVG vector format
+
+## Project Type
+**Logo Design / Brand Identity**
+
+## Brand Category
+**Skincare & Beauty**
+
+---
+
+### Designed by
+**Salma Kajol**
+
+**Graphic Designer**
