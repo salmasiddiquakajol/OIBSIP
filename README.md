@@ -2,7 +2,7 @@
 
 ## Task 1: Posters & Fliers
 
-### 📌 Project Overview
+###  Project Overview
 
 This project was completed as part of the Oasis Infobyte Graphics Design Internship Program.
 
@@ -10,7 +10,7 @@ The task focuses on creating two distinct digital poster designs based on differ
 
 ---
 
-# 🍽️ Poster 01 – Food Promotional Campaign
+#  Poster 01 – Food Promotional Campaign
 
 ## Project Title
 
@@ -63,7 +63,7 @@ The colour combination was selected to create a warm, energetic, and appetizing 
 
 ---
 
-# 💧 Poster 02 – Water Awareness Campaign
+#  Poster 02 – Water Awareness Campaign
 
 ## Project Title
 
@@ -110,7 +110,7 @@ The colour palette was selected to represent water, nature, freshness, and envir
 
 ---
 
-# 🛠️ Tools Used
+#  Tools Used
 
 - Adobe Photoshop
 - Image editing and manipulation
@@ -121,7 +121,7 @@ The colour palette was selected to represent water, nature, freshness, and envir
 
 ---
 
-# 📐 Design Specifications
+#  Design Specifications
 
 ### Poster Format
 
@@ -137,7 +137,7 @@ The colour palette was selected to represent water, nature, freshness, and envir
 
 ---
 
-# ✨ Task Requirements Checklist
+#  Task Requirements Checklist
 
 - [x] Created at least 2 distinct poster designs
 - [x] Used different campaign themes
@@ -153,7 +153,7 @@ The colour palette was selected to represent water, nature, freshness, and envir
 
 ---
 
-# 📂 Project Files
+#  Project Files
 
 This folder contains:
 
@@ -163,7 +163,7 @@ This folder contains:
 
 ---
 
-# 👩‍💻 Created By
+# Created By
 
 **Salma Siddiqua Kajol**
 
@@ -173,7 +173,7 @@ Graphics Design Intern
 
 ---
 
-# 📌 Internship Task
+#  Internship Task
 
 **Task 2 – LOGO**
 
@@ -244,3 +244,344 @@ An elegant Sangi serif typeface was selected to communicate sophistication and l
 **Salma Kajol**
 
 **Graphic Designer**
+# Task - 3 Business Card Design – Aster & Ash
+
+## Project Overview
+
+This project was created as part of my **Oasis Infobyte Internship (OIBSIP)** under the Graphic Design track.
+
+The objective was to design a professional, elegant, and visually consistent business card for a fictional lifestyle brand named **Aster & Ash**.
+
+**Brand Tagline:**  
+> Elevate the Everyday.
+
+## Brand Concept
+
+**Aster & Ash** is a fictional modern lifestyle brand focused on creating an elegant and refined visual identity.
+
+The business card design combines a premium navy and ivory color palette with sophisticated typography and a custom geometric logo to create a clean and memorable brand presence.
+
+## Design Details
+
+- **Brand Name:** Aster & Ash
+- **Tagline:** Elevate the Everyday.
+- **Business Type:** Modern Lifestyle Brand
+- **Design Style:** Minimal, Elegant & Premium
+- **Primary Colors:** Deep Navy & Ivory
+- **Typography:** Elegant Serif + Script Combination
+- **Format:** Double-Sided Business Card
+
+## Front Side
+
+The front side focuses on the brand identity and includes:
+
+- Aster & Ash logo
+- Brand name
+- Brand tagline
+- Dark navy background
+- Subtle geometric background pattern
+
+## Back Side
+
+The back side contains the professional contact information:
+
+- Name: Georgia Wagner
+- Position: Manager
+- Phone: 088 1234 56789
+- Email: www.georgiawagner@gmail.com
+- Website: www.asterandash.com
+- Location: 2no Gate, Nasirabad, Chittagong
+- Brand logo
+
+## Design Objective
+
+The main goal was to create a business card that:
+
+- Communicates professionalism
+- Maintains strong brand consistency
+- Uses a clear visual hierarchy
+- Provides easy-to-read contact information
+- Creates a premium and memorable first impression
+
+## Tools Used
+
+- Adobe Illustrator
+- Graphic Design Principles
+- Typography
+- Color Theory
+- Layout & Visual Hierarchy
+
+## Deliverables
+
+- Front-side business card
+- Back-side business card
+- High-resolution final design
+
+## Internship Task
+
+**Program:** Oasis Infobyte Internship (OIBSIP)  
+**Track:** Graphic Design  
+**Project:** Business Card Design
+
+## Author
+
+Designed as part of my Graphic Design internship project.
+
+---
+
+**Aster & Ash — Elevate the Everyday.**
+
+# Task -4 Infographic (Social Media & Our Daily Life)
+
+## Project Overview
+
+**Social Media & Our Daily Life** is an informative infographic designed to explore how social media influences the way people connect, communicate, consume content, and spend their time online.
+
+The infographic presents key statistics and insights through a clean, structured, and visually engaging layout.
+
+## Objective
+
+The main objective of this project is to communicate social media-related data in a simple and visually understandable format while maintaining a strong visual hierarchy and professional infographic design.
+
+## Key Sections
+
+* **Connected World** — Global social media usage
+* **Daily Screen Time** — Time spent on social and video platforms
+* **Why Do We Scroll?** — Major reasons people use social media
+* **More Than Connection** — Different ways social media is used
+* **Age Makes a Difference** — Social media consumption among younger users
+* **The Two Sides of Social Media** — Opportunities and challenges
+
+## Design Approach
+
+The infographic uses a **top-to-bottom visual flow** to guide viewers through the information naturally. Large numbers, icons, charts, progress bars, illustrations, and content cards are used to make the data easier to understand.
+
+## Colour Palette
+
+* **Deep Navy:** `#17233C`
+* **Blue:** `#3B82F6`
+* **Light Blue:** `#DCEBFF`
+* **White:** `#FFFFFF`
+
+## Typography
+
+* **Headings:** League Spartan Bold
+* **Body Text:** Poppins Regular / Medium
+
+## Tools Used
+
+* Canva
+* Data visualization and infographic design principles
+
+## Dimensions
+
+**800 × 2000 px**
+**Format:** PNG
+**Orientation:** Tall Portrait
+
+## Data Sources
+
+Statistics and supporting information were referenced from:
+
+* DataReportal — Digital 2026 Global Overview
+* DataReportal — Digital 2026 Mid-Year Update
+* GWI — Connecting the Dots 2026
+
+*Data accessed September 2026.*
+
+## Skills Demonstrated
+
+* Infographic Design
+* Data Visualization
+* Visual Hierarchy
+* Layout & Composition
+* Typography
+* Iconography
+* Information Design
+* Colour Management
+* Canva Design
+
+## Conclusion
+
+This project demonstrates how complex digital-behaviour data can be transformed into a clear, engaging, and visually accessible infographic.
+
+# OIBSIP – Graphics Design Internship
+
+## Task-5 Brochure Design
+
+###  Project Overview
+
+This project is a professional food restaurant brochure designed for a fictional restaurant brand.
+
+The brochure presents the restaurant's special food offerings, menu categories, promotional information, opening hours, contact details, and ordering information in a visually engaging layout.
+
+The design combines food photography, warm colours, decorative elements, typography, and structured information to create an attractive restaurant marketing brochure.
+
+---
+
+##  Project Title
+
+**Western Special Food**
+
+### Brochure Type
+Restaurant / Food Promotional Brochure
+
+### Purpose
+
+The purpose of this brochure is to:
+
+- Present special food offerings
+- Display different menu categories
+- Promote restaurant services
+- Provide contact and location information
+- Attract customers through appealing food photography
+- Communicate promotional offers
+
+---
+
+##  Design Concept
+
+The brochure uses a warm and energetic food-themed visual style.
+
+The design combines:
+
+- Food photography
+- Orange and brown colour tones
+- Decorative cultural patterns
+- Curved image sections
+- Circular graphic elements
+- Structured menu layouts
+- Clear typography
+
+This creates a warm, welcoming, and appetizing restaurant identity.
+
+---
+
+##  Brochure Content
+
+### Front / Left Panel
+
+**Western Special Food**
+
+**Open:**  
+Sunday–Monday  
+8 am–9 pm
+
+### Contact Information
+
+**Phone:**  
+0001 2345 6789
+
+**Email:**  
+www.yourgmail.com
+
+**Location:**  
+2no gate, nasirabad, chittagong
+
+**Website:**  
+www.website.com
+
+A QR code is also included for additional customer access.
+
+---
+
+##  Menu Categories
+
+The menu section includes:
+
+- Snack
+- Burger
+- Sandwiches
+- Pizza
+- Drinks & Desserts
+
+The menu presents different food items along with their descriptions and prices.
+
+---
+
+##  Promotional Element
+
+The brochure includes a promotional offer:
+
+**30% Off**
+
+This helps attract customers and adds a promotional aspect to the restaurant marketing material.
+
+---
+
+##  Tools Used
+
+- Adobe illustrator
+- Image editing and manipulation
+- Typography
+- Layout and composition
+- Colour adjustment
+- Graphic elements
+- Food photography
+
+---
+
+##  Colour Palette
+
+The primary colour palette consists of:
+
+- Orange
+- Dark Brown
+- Cream
+- White
+
+These colours were selected to create a warm, appetizing, and premium food-related visual identity.
+
+---
+
+##  Design Features
+
+- Professional restaurant brochure layout
+- Two-page brochure composition
+- High-quality food imagery
+- Clear menu organization
+- Strong visual hierarchy
+- Consistent colour palette
+- Decorative graphic elements
+- Promotional discount section
+- Contact and location information
+- QR code integration
+- Balanced image and text placement
+
+---
+
+##  Design Specifications
+
+- **Design Type:** Restaurant Brochure
+- **Layout:** Two-page / Spread Layout
+- **Orientation:** Landscape
+- **Format:** Digital Brochure
+- **Export Format:** High-Resolution Image/PDF
+
+---
+
+##  Project Files
+
+This folder contains:
+
+- `Western-Special-Food-Brochure.jpg` – Final brochure design
+- `README.md` – Project documentation
+- Source file, if applicable
+
+---
+
+##  Created By
+
+**Salma Siddiqua Kajol**
+
+Graphics Design Intern
+
+**Oasis Infobyte Internship Program**
+
+---
+
+## 📌 Project Category
+
+**Graphic Design – Brochure Design**
+
+Created as part of the **Oasis Infobyte Internship Program**.
